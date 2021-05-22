@@ -1,4 +1,4 @@
 mysql: 
   url: dev-http://106.75.217.113:3306/springbootdata
 lagou: 
-  message: hello lagou,200
+  message: hello lagou,300
